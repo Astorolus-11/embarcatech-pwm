@@ -5,6 +5,7 @@ O objetivo desse projeto é manipular um LED e um Servo Motor, alternando o âng
 
 ## 2. Vídeo de demonstração
 
+https://www.dropbox.com/scl/fi/dewt6rv8yuze43312nd9f/V-deo-do-WhatsApp-de-2025-02-11-s-18.35.05_3c12face.mp4?rlkey=pu2beel17vr3n72wmoqmtf125&st=i4gdmnsj&dl=0
 
 
 ## 3. Funcionalidades
