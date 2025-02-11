@@ -46,6 +46,7 @@ pico_enable_stdio_usb(embarcatech-pwm 1)
 
 # Add the standard library to the build
 target_link_libraries(embarcatech-pwm
+        hardware_pwm
         pico_stdlib)
 
 # Add the standard include files to the build
